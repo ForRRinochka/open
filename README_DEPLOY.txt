@@ -1,4 +1,4 @@
-Загрузи ЭТИ файлы в корень репозитория GitHub:
+Загрузи в корень репозитория:
 - index.html
 - 404.html
 - .nojekyll
@@ -10,11 +10,11 @@
 - memory3.jpg
 - album1.jpg ... album20.jpg
 
-В GitHub:
+GitHub:
 Settings -> Pages
-Build and deployment -> Source -> Deploy from a branch
+Source -> Deploy from a branch
 Branch -> main
 Folder -> /(root)
 
-Если сайт project page, ссылка будет:
+Открывай ссылку вида:
 https://USERNAME.github.io/REPOSITORY/
